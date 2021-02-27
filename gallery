@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:lightgrey;">
+
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a class="active" href="#about bosnia and herzegovina">About Bosnia and Herzegovina</a></li>
+  <li><a href="#history">History</a></li>
+  <li><a href="#geographial position">Geographical position</a></li>
+  <li><a href="#symbols">Symbols</a></li>
+  <li><a href="#news">Gallery</a></li>
+</ul>
+ 
+
+
+<h2> Nature in Bosnia and Herzegovina, Croatia and Serbia</h2>
+<img src="http://www.sarajevotimes.com/wp-content/uploads/2014/04/buna_mostar-300x216.jpg"  style="float:middle;width:454px;height:378px;" />
+
+
+
+<img src="http://latrezor.com/data/images/tara_image1.jpg"  style="float:middle;width:454px;height:378px;" />
+
+
+
+
+<img src="http://www.private-guides.com/guide-in-croatia/croatia-matej-dancevic/tour_split_2176.jpg"  style="float:middle;width:454px;height:378px;" />
+
+
+
+<h2> Tombstones in Bosnia and Herzegovina, Croatia and Serbia</h2>
+<img src="http://feelbosnia.com/images/uploads/stecci_bosnia_monuments.jpg"  style="float:middle;width:454px;height:378px;" />
+
+
+
+
+<img src="http://www.medievalists.net/wp-content/uploads/2012/07/800px-Stecak_Zmeljaski_Muzej_Sarajevo.jpg"  style="float:middle;width:454px;height:378px;" />
+
+
+
+
+<img src="http://bih-x.info/wp-content/uploads/2014/04/ste%C4%87ci1-300x224.jpg"  style="float:middle;width:454px;height:378px;" />
+
+
+
+
+</body>
+</html>
