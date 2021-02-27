@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:lightgrey;">
+
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a class="active" href="#about bosnia and herzegovina">About Bosnia and Herzegovina</a></li>
+  <li><a href="#history">History</a></li>
+  <li><a href="#geographial position">Geographical position</a></li>
+  <li><a href="#symbols">Symbols</a></li>
+  <li><a href="#news">Gallery</a></li>
+</ul>
+ 
+
+<p style="border:3px; border-style:solid; border-color:##808080; padding: 1em;margin-left: 400px; margin-right: 400px"><font size="4"> Their most remarkable feature is their decorative
+
+motifs, many of which remain enigmatic to this day. spirals, arcades, rosettes, vine leaves and grapes, suns and crescent moons are among the images that appear. Figural motifs include
+
+processions of deer, dancing the kolo, hunting and, most famously, the image of the man with his right hand raised, perhaps in a gesture of fealty.”    </p>
+
+<center>Picture of tombstones</center>
+<center><img src="http://www.hiddeneurope.co.uk/assets/image-cache/497_stecci-rudolf-abraham.1e669f39.jpg"  style="float:middle;width:504px;height:428px;" /></center>
+<br> </br>
+
+
+<center>Bosancica</center>
+<center><img src="http://i2.wp.com/bosnjaci.agency/wp-content/uploads/2015/08/1-bosan%C4%8Dica-pismo-srednjovjekovne-Bosne-1.jpg?zoom=1.5&resize=540%2C540" 
+
+style="float:middle;width:504px;height:428px;" /></center>
+
+
+<p style="border:3px; border-style:solid; border-color:##808080; padding: 1em;margin-left: 400px; margin-right: 400px"><font size="4"> The letters written on the tombstones are in
+
+Bosancica, which is a witness of that good literacy. They usually reveal the name of the deceased (often several of them buried beneath the tombstone). In some instances of the signature
+
+and student - scribe who compiled the carved inscription. Some inscriptions make details of the deceased's life or prayer  </p>
+
+
+
+</body>
+</html>
