@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:lightgrey;">
+
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a class="active" href="#about bosnia and herzegovina">About Bosnia and Herzegovina</a></li>
+  <li><a href="#history">History</a></li>
+  <li><a href="#geographial position">Geographical position</a></li>
+  <li><a href="#symbols">Symbols</a></li>
+  <li><a href="#news">Gallery</a></li>
+</ul>
+ 
+<p style="margin-left: 300px"><font size="5"><b> About Bosnia and Herzegovina</b></p>
+<p style="border:3px; border-style:solid; border-color:##808080; padding: 1em;margin-left: 300px; margin-right: 300px;"><font size="4">Bosnia and Herzegovina is a country in Southeastern
+
+Europe located on the Balkan Peninsula. Bordered by Croatia to the north, west, and south; Serbia to the east; Montenegro to the southeast; and the Adriatic Sea to the south, with a
+
+coastline about 20 kilometers (12 miles) long surrounding the city of Neum.</p>
+
+<p style="margin-left: 300px"><font size="5"><b> History</b></p>
+<p style="border:3px; border-style:solid; border-color:##808080; padding: 1em;margin-left: 300px; margin-right: 300px"><font size="4">They were built in XII century. An estimated 60,000 are
+
+found within the borders of modern Bosnia and Herzegovina and the rest of 10,000 are found in what are today Croatia (5,000), Serbia (2,000), and Montenegro (3,000).</p>
+
+<p style="margin-left: 300px"><font size="5"><b> Geographical position</b></p>
+<p style="border:3px; border-style:solid; border-color:##808080; padding: 1em;margin-left: 300px; margin-right: 300px"><font size="4">The tombstones are available in Bosnia and Herzegovina,
+
+Croatia, Serbia and Montenegro. Some historians have argued that the Bosnian Church was related to Bogomils of First Bulgarian Empire or other dualist groups. Others have asserted that the
+
+church was actually founded by Franciscan monks from the Catholic Church. However, Marian Wenzel thinks something else…</p>
+
+<p style="margin-left: 300px"><font size="5"><b> Symbols</b></p>
+<p style="border:3px; border-style:solid; border-color:##808080; padding: 1em;margin-left: 300px; margin-right: 300px"><font size="4">Their most remarkable feature is their decorative
+
+motifs, many of which remain enigmatic to this day. spirals, arcades, rosettes, vine leaves and grapes, suns and crescent moons are among the images that appear. Figural motifs include
+
+processions of deer, dancing the kolo, hunting and, most famously, the image of the man with his right hand raised, perhaps in a gesture of fealty.</p>
+
+<p style="margin-left: 300px"><font size="5"><b> Gallery</b></p>
+
+<center><img src="http://arhiva.visoko.co.ba/images/stories/Ilustracije/stecci.jpg" height="350" width="400" /></center>
+
+</body>
+</html>
