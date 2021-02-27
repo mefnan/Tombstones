@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:lightgrey;">
+
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a class="active" href="#about bosnia and herzegovina">About Bosnia and Herzegovina</a></li>
+  <li><a href="#history">History</a></li>
+  <li><a href="#geographial position">Geographical position</a></li>
+  <li><a href="#symbols">Symbols</a></li>
+  <li><a href="#news">Gallery</a></li>
+</ul>
+ 
+<p style="border:3px; border-style:solid; border-color:##808080; padding: 1em;margin-left: 400px; margin-right: 400px"><font size="4"> Stecak is the name for monumental medieval tombstones
+
+that lie scattered across Bosnia and Herzegovina, and the border parts of Croatia, Montenegro and Serbia, although almost exclusively following the borders of the medieval Bosnian Kingdom.
+
+An estimated 60,000 are found within the borders of modern Bosnia and Herzegovina and the rest of 10,000 are found in what are today Croatia (5,000), Serbia (2,000), and Montenegro (3,000)
+
+<br> </br> <br> Tombstones in Serbia </br> <img
+
+src="http://i1.trekearth.com/photos/10824/romantombstone.jpg" align="middle" style="width:504px;height:428px;" /> </p>
+
+
+<p style="border:3px; border-style:solid; border-color:##808080; padding: 1em;margin-left: 400px; margin-right: 400px"><font size="4"> Appearing in the 11th century, the tombstones reached
+
+their peak in the 14th and 15th century, before disappearing during the Ottoman occupation. They were a common tradition amongst Bosnian Church, Catholic and Orthodox followers. The
+
+epitaphs on them are written in cyrillic alphabet. The largest collection of these tombstones is named Radimlja, after a local river, and is located 3 km west of Stolac in Bosnia and
+
+Herzegovina. <br> </br> <br>Tombstones in Bosnia and
+
+Herzegovina  </br><img src="http://www.hiddeneurope.co.uk/assets/image-cache/497_stecci-rudolf-abraham.1e669f39.jpg" align="middle" style="width:504px;height:428px;" /> </p>
+
+
+<p style="border:3px; border-style:solid; border-color:##808080; padding: 1em;margin-left: 400px; margin-right: 400px"><font size="4"> Tombstones in Croatia   <img
+
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ste%C4%87ci%2C_croatian_medieval_tombstones.JPG/1200px-Ste%C4%87ci%2C_croatian_medieval_tombstones.JPG" align="middle"
+
+style="width:504px;height:428px;" /> </p>
+
+
+
+</body>
+</html>
