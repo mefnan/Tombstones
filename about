@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:lightgrey;">
+
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a class="active" href="#about bosnia and herzegovina">About Bosnia and Herzegovina</a></li>
+  <li><a href="#history">History</a></li>
+  <li><a href="#geographial position">Geographical position</a></li>
+  <li><a href="#symbols">Symbols</a></li>
+  <li><a href="#news">Gallery</a></li>
+</ul>
+ 
+<p style="border:3px; border-style:solid; border-color:##808080; padding: 1em;margin-left: 400px; margin-right: 400px"><font size="4"> Bosnia and Herzegovina is a country in Southeastern
+
+Europe located on the Balkan Peninsula. Sarajevo is the capital and largest city. Bordered by Croatia to the north, west, and south; Serbia to the east; Montenegro to the southeast; and the
+
+Adriatic Sea to the south, with a coastline about 20 kilometers (12 miles) long surrounding the city of Neum.<br> </br> <br> Bosnia and Herzegovina on map </br> <img
+
+src="http://dokmans.com/pana/content/mapa-balkana.png" align="middle" style="width:504px;height:428px;" /> </p>
+
+
+<p style="border:3px; border-style:solid; border-color:##808080; padding: 1em;margin-left: 400px; margin-right: 400px"><font size="4"> In the central and eastern interior of the country the
+
+geography is mountainous, in the northwest it is moderately hilly, and the northeast is predominantly flatland. The inland is a geographically larger region and has a moderate continental
+
+climate, bookended by hot summers and cold and snowy winters. The southern tip of the country has a Mediterranean climate and plain topography. <br> </br> <br> Nature of Bosnia and
+
+Herzegovina  </br><img src="http://www.bhspirit.com/wp-content/uploads/2014/11/jajce-620x245.jpg" align="middle" /> </p>
+
+
+<p style="border:3px; border-style:solid; border-color:##808080; padding: 1em;margin-left: 400px; margin-right: 400px"><font size="4"> Stecci (singular: Stecak), are monumental medieval
+
+tombstones that lie scattered across the landscape of Bosnia and Herzegovina. They are the country's most legendary symbol. These are the tombstones of those who lived between the 11th and
+
+15th centuries and refused to swear allegiance to any kingdom but their own or to be swayed by any influence. Instead they stayed true to themselves and to what they could find only within
+
+themselves and in Bosnia. <br> </br> <br> Tombstones in Bosnia and Herzegovina </br><img src="http://thumbs.dreamstime.com/x/ancient-tombstones-cemetery-stolac-bosnia-herzegovina-
+
+28574858.jpg" align="middle" style="width:504px;height:428px;" /> </p>
+
+
+
+
+</body>
+</html>
